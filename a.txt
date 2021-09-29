@@ -2,4 +2,4 @@ hello git ！  9-29
 
 hello git ！  9-30
 
-hello git ！  10-1 hot day
+hello git ！  10-1 hot day   master edit
