@@ -9,3 +9,5 @@ hello git ！  10-1 hot day  hot-fix edit
 hello , I'm from github
 
 what will happen when confilict
+
+I'm edit on github
